@@ -8,7 +8,7 @@ Matricula: 1
 ## Tela de inspeção com navegador
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
-
+![Cruzeirão](images/celeste.png)
 
 
 ## Orientações sobre Linguagem MarkDown
